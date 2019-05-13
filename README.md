@@ -1,5 +1,5 @@
 # IDMWaker
-调用IDM的api添加任务
+调用IDM的[API](http://www.internetdownloadmanager.com/support/idm_api.html)添加任务
 
 ## 功能描述
 将链接批量发送给IDM进行下载，并提供正则表达式匹配，自动增加序号等功能  
