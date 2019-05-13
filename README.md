@@ -26,3 +26,6 @@ new IDManLib.CIDMLinkTransmitterClass().SendLinkToIDM2(
     null
     );
 ```
+
+## 下载
+https://github.com/nilaoda/IDMWaker/releases/latest
